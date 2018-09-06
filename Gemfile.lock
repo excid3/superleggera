@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    superleggera (0.1.0)
+    superleggera (0.0.1)
       rails (~> 5.2.1)
 
 GEM
